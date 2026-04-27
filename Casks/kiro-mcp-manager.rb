@@ -1,6 +1,6 @@
 cask "kiro-mcp-manager" do
-  version "1.2.0"
-  sha256 "df502829f66fa27949da911a2aaf8e32b65397ef55143e663c312053b3323db4"
+  version "1.3.0"
+  sha256 "33361e4772a29472d7aa8ae07651b931c26639e624057119574258ca8e7211eb"
 
   url "https://github.com/ryancormack/kiro-mcp-manager/releases/download/v#{version}/KiroMcpManager-#{version}.dmg"
   name "Kiro MCP Manager"
